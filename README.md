@@ -9,17 +9,10 @@
 - Developed categories, users and transactions management for administrators.
 - Implemented management capabilities including search, filter and pagination.
 
-## Contributors
+## Collaborators
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/Nomulwarshravaniii">
-        <img src="https://avatars.githubusercontent.com/Nomulwarshravaniii" width="80" style="border-radius: 50%;" alt="Shravani Nomulwar"/>
-        <br />
-        <span style="font-size: 16px;"><b>Shravani Nomulwar</b></span>
-      </a>
-    </td>
     <td align="center">
       <a href="https://github.com/anjalic24">
         <img src="https://avatars.githubusercontent.com/anjalic24" width="80" style="border-radius: 50%;" alt="Anjali C"/>
