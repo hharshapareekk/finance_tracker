@@ -15,27 +15,32 @@
   <tr>
     <td align="center">
       <a href="https://github.com/Nomulwarshravaniii">
-        <img src="https://avatars.githubusercontent.com/Nomulwarshravaniii" width="100px" style="border-radius: 50%"/><br />
-        <sub><b>Shravani Nomulwar</b></sub>
+        <img src="https://avatars.githubusercontent.com/Nomulwarshravaniii" width="80" style="border-radius: 50%;" alt="Shravani Nomulwar"/>
+        <br />
+        <span style="font-size: 16px;"><b>Shravani Nomulwar</b></span>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/anjalic24">
-        <img src="https://avatars.githubusercontent.com/anjalic24" width="100px" style="border-radius: 50%"/><br />
-        <sub><b>Anjali C</b></sub>
+        <img src="https://avatars.githubusercontent.com/anjalic24" width="80" style="border-radius: 50%;" alt="Anjali C"/>
+        <br />
+        <span style="font-size: 16px;"><b>Anjali C</b></span>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/aditisak">
-        <img src="https://avatars.githubusercontent.com/aditisak" width="100px" style="border-radius: 50%"/><br />
-        <sub><b>Aditi Sakhalkar</b></sub>
+        <img src="https://avatars.githubusercontent.com/aditisak" width="80" style="border-radius: 50%;" alt="Aditi Sakhalkar"/>
+        <br />
+        <span style="font-size: 16px;"><b>Aditi Sakhalkar</b></span>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/hharshapareekk">
-        <img src="https://avatars.githubusercontent.com/hharshapareekk" width="100px" style="border-radius: 50%"/><br />
-        <sub><b>Harsha Pareek</b></sub>
+        <img src="https://avatars.githubusercontent.com/hharshapareekk" width="80" style="border-radius: 50%;" alt="Harsha Pareek"/>
+        <br />
+        <span style="font-size: 16px;"><b>Harsha Pareek</b></span>
       </a>
     </td>
   </tr>
 </table>
+
