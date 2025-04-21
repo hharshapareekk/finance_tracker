@@ -1,15 +1,12 @@
 #!/bin/bash
 set -e  # Exit immediately on error
 
-echo "===== Java Installation Check ====="
-sudo apt-get update
-sudo apt-get install -y openjdk-21-jdk
+echo "===== Java Environment Setup ====="
 export JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64
 export PATH=$JAVA_HOME/bin:$PATH
 
 echo "----- Java Version -----"
-java -version
-javac -version
+java -version || { echo "Java check failed"; exit 1; }
 
 echo "===== Maven Wrapper Check ====="
 if [ ! -f "./mvnw" ]; then
@@ -19,4 +16,4 @@ if [ ! -f "./mvnw" ]; then
 fi
 
 echo "----- Maven Version -----"
-./mvnw --version
+./mvnw --version || { echo "Maven check failed"; exit 1; }
