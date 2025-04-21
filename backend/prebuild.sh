@@ -1,4 +1,8 @@
 #!/bin/sh
+echo "----- Java Environment Setup -----"
+export JAVA_HOME=/usr/lib/jvm/java-21-openjdk-amd64
+export PATH=$JAVA_HOME/bin:$PATH
+
 echo "----- Checking for Maven Wrapper -----"
 if [ ! -f "./mvnw" ]; then
   echo "Maven wrapper missing - downloading..."
@@ -7,3 +11,8 @@ if [ ! -f "./mvnw" ]; then
 else
   echo "Maven wrapper exists"
 fi
+
+echo "----- Java Version -----"
+java -version
+echo "----- Maven Version -----"
+./mvnw --version
