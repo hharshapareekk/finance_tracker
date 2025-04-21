@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Finance_tracker
 
 
@@ -37,3 +38,6 @@
   </tr>
 </table>
 
+=======
+# finance_tracker
+>>>>>>> a47020b1438f2a5c4482d2934ba8c07a3bebff3e
